@@ -1,0 +1,19 @@
+{
+  "name": "mihailtodorov_com",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "export": "nuxt export",
+    "serve": "nuxt serve"
+  },
+  "dependencies": {
+    "gsap": "^3.4.2",
+    "nuxt": "^2.13.0",
+    "stylus": "^0.54.8",
+    "stylus-loader": "^3.0.2"
+  },
+  "devDependencies": {}
+}
