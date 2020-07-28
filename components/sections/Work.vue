@@ -13,10 +13,19 @@
             return {
                 workExamples: [
                     {
-                        image: 'work-cover.png',
+                        image: 'website-cover.png',
                         github: 'https://github.com/TodorovM/mihailtodorov_com',
                         link: 'https://mihailtodorov.com'
-                    }
+                    },
+                    {
+                        image: 'lunch-cover.png',
+                        github: 'https://github.com/TodorovM/random_lunch_finder',
+                        link: 'https://focused-elion-5ba57a.netlify.app/'
+                    },
+                    {
+                        image: 'vinyl-cover.png',
+                        link: 'http://mihailtodorov.com/vinyl/'
+                    },
                 ]
             }
         },
@@ -29,5 +38,7 @@
         .work-container
             padding 50px 0
             perspective 1000px
+            display flex
+            justify-content space-evenly
 
 </style>

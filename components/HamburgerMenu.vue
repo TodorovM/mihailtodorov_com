@@ -24,7 +24,7 @@ export default {
   data() {
     return {
       clicked: false,
-      pages: ['Welcome', 'About', 'Skills', 'Experience', 'Work', 'Contact']
+      pages: ['Welcome', 'About', 'Skills', 'Experience', 'Work']
     };
   },
   computed: {

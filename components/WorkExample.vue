@@ -40,7 +40,7 @@
             }
         },
         mounted () {
-           this.$refs.exampleImage.style.backgroundImage = `url(${require(`../assets/${example.image}`)})` ;
+           this.$refs.exampleImage.style.backgroundImage = `url(${require(`../assets/${this.example.image}`)})` ;
            this.$refs.exampleImage.addEventListener('mousemove', this.hoverAnimation);
            this.$refs.exampleImage.addEventListener('mouseout', this.hoverOut)
         },
