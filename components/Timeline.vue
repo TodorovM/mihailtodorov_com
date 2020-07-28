@@ -90,7 +90,7 @@
                 opacity 0
                 transform translateX(200px)
                 height 150px
-                overflow-x scroll
+                overflow-y auto
                 text-overflow ellipsis
                 @media screen and (max-width 400px)
                     height 130px

@@ -4,6 +4,7 @@
     <About />
     <Skills />
     <Experience />
+    <Work />
   </div>
 </template>
 
@@ -14,5 +15,5 @@ export default {
 </script>
 
 <style lang="stylus">
- 
+
 </style>

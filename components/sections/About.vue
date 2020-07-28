@@ -16,6 +16,8 @@
                 <p>I was born and raised in Sofia and currently live here. I spend my free time usually reading, cooking (and eating), taking walks, playing with my cat or drawing and learning about new technologies.</p>
                 <h2>What are my best qualities?</h2>
                 <p>I am self-driven, independent and want to get the job done. I also love working with people</p>
+                <h2>How to contact me?</h2>
+                <p>You can send me an email at <span>admin(at)mihailtodorov.com</span> </p>
             </div>
         </div>
     </section>
